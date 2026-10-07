@@ -1,0 +1,6 @@
+{
+  "name": "WORKFLOW OS",
+  "description": "Intelligent Work Planning, Capacity Management & On-Time Delivery System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
